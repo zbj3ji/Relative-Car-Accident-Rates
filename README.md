@@ -2,7 +2,7 @@
 ## Proof of Concept
 
 Information you will find here:
-1. Spatial map [^1] of Central Bohemian Region for primary, secondary and terciary roads made in QGIS with use of OpenStreetMap
+1. [Spatial map](Central_Bohemian_Region_WGS_84) of Central Bohemian Region[^1] in QGIS with use of OpenStreetMap
 2. Direct link to realized solution in [Tableau Public](https://public.tableau.com/views/RelativeAccidentRateinCentralBohemianRegion/MainOverview?:language=en-US&:sid=39F22E03F39142BDA3BDE1D519610F27-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 All the data were provided by [Czech Police](https://nehody.policie.cz/), [Transport Research Centre]() & [Directorate of Roads and Highways](https://scitani.rsd.cz/CSD_2020/pages/map/default.aspx).
@@ -22,4 +22,4 @@ In case you will use any part from this repo, please cite me accordingly:
 }
 ```
 
-[^1]: Spatial Map of Central Bohemian Region
+[^1]: For primary, secondary and tertiary roads only
