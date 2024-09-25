@@ -9,7 +9,10 @@ All the data were provided by [Czech Police](https://nehody.policie.cz/), [Trans
 
 All the tools used to realize [QGIS](https://www.qgis.org/), [OpenStreetMap](https://www.openstreetmap.org) & [Tableau Public Desktop](https://www.tableau.com/community/public)
 
-In case you will use any part from this repo, please cite me accordingly:
+
+The road segments where used to join various data and to be able to calculate e.g. Relative Accident Rate. In case you change a period in Tableau, all is recalculated dynamically.
+
+All is free of use, but in case you will use any part from this repo, please cite me accordingly:
 
 ```
 @misc{zbj3ji,
