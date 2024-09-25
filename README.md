@@ -12,13 +12,13 @@ All the tools used to realize [QGIS](https://www.qgis.org/), [OpenStreetMap](htt
 In case you will use any part from this repo, please cite me accordingly:
 
 ```
-@misc{
-  author = {Jan Zbirovsky},
-  title = {{Relative Accident Rates in the Central Bohemian Region}},
-  issue_date = {September 2024},
-  howpublished = "\url{ https://github.com/zbj3ji/Relative-Car-Accident-Rates }",
-  url = {{https://github.com/zbj3ji/Relative-Car-Accident-Rates}}},
-  year = {2024}
+@misc{zbj3ji,
+    author = {Jan Zbirovsky},
+    title = {{Relative Accident Rates in the Central Bohemian Region}},
+    issue_date = {September 2024},
+    howpublished = "\url{ https://github.com/zbj3ji/Relative-Car-Accident-Rates }",
+    url = {{https://github.com/zbj3ji/Relative-Car-Accident-Rates}},
+    year = {2024}
 }
 ```
 
