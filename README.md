@@ -12,7 +12,7 @@ All the tools used to realize [QGIS](https://www.qgis.org/), [OpenStreetMap](htt
 
 The road segments where used to join various data and to be able to calculate e.g. Relative Accident Rate. In case you change a period in Tableau, all is recalculated dynamically.
 
-All is free of use, but in case you will use any part from this repo, please cite me accordingly:
+All content is free to use, but if you use any part of this repository, please cite me accordingly:
 
 ```
 @misc{zbj3ji,
