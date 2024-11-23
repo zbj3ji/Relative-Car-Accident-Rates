@@ -1,8 +1,12 @@
 # Project "Relative Car Accident Rates in 2023 for the Central Bohemian Region" 
 ## Proof of Concept
 
+| Preview             |
+:-------------------------:|
+<img src="RSD_Road_Segments/2024-11-23_12h03_42.png" alt="Alt Text" style="width:75%; height:auto;">  |
+
 Information you will find here:
-1. [Spatial map](Central_Bohemian_Region_WGS_84) of Central Bohemian Region[^1] in QGIS with use of OpenStreetMap
+1. :globe_with_meridians:[Spatial map](Central_Bohemian_Region_WGS_84) of Central Bohemian Region[^1] in QGIS with use of OpenStreetMap
 2. Direct link to realized solution in [Tableau Public](https://public.tableau.com/views/RelativeAccidentRateinCentralBohemianRegion/MainOverview?:language=en-US&:sid=39F22E03F39142BDA3BDE1D519610F27-0:0&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 All the data were provided by [Czech Police](https://nehody.policie.cz/), [Transport Research Centre]() & [Directorate of Roads and Highways](https://scitani.rsd.cz/CSD_2020/pages/map/default.aspx).
