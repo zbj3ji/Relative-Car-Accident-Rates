@@ -28,6 +28,6 @@ All content is free to use for private usage, but if you use any part of this re
     year = {2024}
 }
 ```
-:star:**For commercial purpose please contact me directly via [LinkedIn](https://www.linkedin.com/in/jan-zbirovsky/)! or via [e-mail](mailto:zbirovsky@email.cz)**
+:star:**For commercial purpose please contact me directly via [LinkedIn](https://www.linkedin.com/in/jan-zbirovsky/) or via [e-mail](mailto:zbirovsky@email.cz)!**
 
 [^1]: For primary, secondary and tertiary roads only
